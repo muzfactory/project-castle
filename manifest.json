@@ -1,0 +1,9 @@
+{
+  "name": "프로젝트캐슬",
+  "short_name": "캐슬",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#9C27B0",
+  "icons": []
+}
